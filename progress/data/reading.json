@@ -1,0 +1,49 @@
+{
+  "updated_at": "2024-05-16",
+  "books": [
+    {
+      "id": "math-ml",
+      "title": "Математика в машинном обучении",
+      "total_pages": 512,
+      "log": [
+        {
+          "from": 1,
+          "to": 31,
+          "minutes": 95,
+          "note": "Введение и основы"
+        }
+      ]
+    },
+    {
+      "id": "hundred-page-ml",
+      "title": "One Hundreed Paged ML Book",
+      "total_pages": 130,
+      "log": [
+        {
+          "from": 1,
+          "to": 7,
+          "minutes": 25,
+          "note": "Первый заход"
+        },
+        {
+          "from": 8,
+          "to": 19,
+          "minutes": 40,
+          "note": "Второй заход"
+        },
+        {
+          "from": 20,
+          "to": 33,
+          "minutes": 55,
+          "note": "Третий заход"
+        },
+        {
+          "from": 34,
+          "to": 41,
+          "minutes": 30,
+          "note": "Четвертый заход"
+        }
+      ]
+    }
+  ]
+}
